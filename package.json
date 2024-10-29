@@ -10,6 +10,7 @@
 		"ci": "biome ci"
 	},
 	"devDependencies": {
-		"@biomejs/biome": ""
+		"@biomejs/biome": "",
+		"@types/node": "^22.8.2"
 	}
 }
